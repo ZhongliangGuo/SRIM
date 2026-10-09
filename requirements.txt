@@ -1,0 +1,7 @@
+torch>=2.4
+diffusers>=0.40
+transformers
+accelerate
+safetensors
+Pillow
+numpy
